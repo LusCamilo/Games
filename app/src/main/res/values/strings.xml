@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Games</string>
+    <string name="login_title">Login</string>
+    <string name="welcome_title">Bem-vindo!</string>
+    <string name="text_description">Com o nosso aplicativo será muito mais fácil e divertido manter o controle dos seus games!</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="remember_me">Lembrar-me</string>
+    <string name="login_button">Entrar</string>
+    <string name="create_account">Criar uma conta</string>
+    <string name="copyright">Desenvolvido por DS2M</string>
+    <string name="new_account_title">Nova Conta</string>
+    <string name="choice_photo">Vamos escolher uma foto?</string>
+    <string name="data_autentic_title">Dados para autenticação</string>
+    <string name="personal_data_titulo">Dados pessoais</string>
+    <string name="name_question">Qual seu nome?</string>
+    <string name="city_question">Qual é a sua cidade</string>
+    <string name="birth_date_question">Data de nascimento</string>
+    <string name="gamer_level_question">Qual o seu nível gamer?</string>
+    <string name="gamer_level_type">Noob</string>
+    <string name="gamer_level">qual o seu nível game?</string>
+    <string name="console_type_question">Qual o seu console preferido</string>
+    <string name="title_sex">Sexo :</string>
+    <string name="female">Feminino</string>
+    <string name="male">Masculino</string>
+    <string name="title_activity_signup">Signup_activity</string>
+    <string name="title_new_account">Nova Conta</string>
+    <string name="pick_photo_question">Vamos escolher uma foto?</string>
+    <string name="save_menu">Salvar</string>
+    <string name="settings_menu">Configurações</string>
+    <string name="exit_menu">Sair</string>
+    <string name="name_test">User Name</string>
+    <string name="email_test">UserName@gmail.com</string>
+    <string name="age_test">Idade</string>
+    <string name="age_test_n">16</string>
+    <string name="games_finished">Jogos Terminados</string>
+    <string name="games_finished_n">35</string>
+    <string name="games_currently">Jogos em Curso</string>
+    <string name="games_currently_n">06</string>
+    <string name="games_registered">Seus jogos cadastrados</string>
+    <string-array name="console">
+        <item>Xbox</item>
+        <item>PlayStation</item>
+        <item>Nintendo</item>
+        <item>Atari</item>
+        <item>Game Boy</item>
+        <item>PSP</item>
+        <item>Desktop</item>
+    </string-array>
+    <string name="criadora">criador</string>
+    <string name="name_game">nome do jogo</string>
+    <string name="description_game">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+</resources>
